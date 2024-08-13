@@ -1,0 +1,43 @@
+.main-container {
+  display: flex;
+  gap: 200px;
+  align-items: center;
+  justify-content: center;
+}
+.main-text {
+  margin-top: 80px;
+}
+.main-text-logo img {
+  width: 100%;
+  width: 380px;
+  margin-bottom: 10px;
+}
+.main-text p {
+  color: #EDF1F7;
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+.main-btn {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 10px;
+}
+.main-btn .btn1 {
+  border: none;
+  border-radius: 2px;
+  padding: 8px 50px;
+  background-color: #C51212;
+  text-transform: uppercase;
+}
+.main-btn .btn2 {
+  color:#FFF ;
+  background-color:transparent;
+  border: solid 2px #14B02D;
+  border-radius: 2px;
+  padding: 8px 50px;
+  text-transform: uppercase;
+}
+.main-mario img {
+ width: 400px;
+}

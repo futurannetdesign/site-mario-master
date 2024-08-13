@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.header-container {
+ display: flex;
+ justify-content: space-between;
+ padding-top: 20px;
+}
+.header .header-logo {
+ display: flex;
+ gap: 20px;
+}
+.header-logo img {
+  width: 100%;
+  width: 60px;
+}
+.header ul {
+  color: #EDF1F7;
+  font-size: 16px;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+.header-social {
+  display: flex;
+  gap: 8px;
+  width: 100px;
+}
